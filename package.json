@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-cert",
+  "version": "1.0.0",
+  "description": "LFW111 & LFW211 study for cert",
+  "main": "index.js",
+  "scripts": {
+    "static": "serve -p 5050 static",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raserrano/nodejs-cert.git"
+  },
+  "keywords": [
+    "jsnad",
+    "nodejs",
+    "js",
+    "javascript"
+  ],
+  "author": "raserrano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raserrano/nodejs-cert/issues"
+  },
+  "homepage": "https://github.com/raserrano/nodejs-cert#readme",
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
