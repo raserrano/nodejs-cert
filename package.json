@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/raserrano/nodejs-cert#readme",
   "dependencies": {
+    "fastify": "^4.28.1",
+    "fastify-cli": "^6.3.0",
     "serve": "^14.2.3"
   }
 }
